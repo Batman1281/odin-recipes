@@ -1,2 +1,2 @@
 # odin-recipes
-Will be used to star coding journey
+Will be used to start coding journey
